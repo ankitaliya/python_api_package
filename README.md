@@ -1,0 +1,1 @@
+# A Python Package that generates different formats of the json-data fetched from the rest apis. 
