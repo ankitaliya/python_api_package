@@ -1,0 +1,101 @@
+2021-12-29 13:11:38,305:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:11:40,723:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects HTTP/1.1" 200 None
+2021-12-29 13:11:54,100:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:11:54,854:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/1 HTTP/1.1" 200 None
+2021-12-29 13:11:54,867:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:11:55,509:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/2 HTTP/1.1" 200 None
+2021-12-29 13:11:55,532:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:11:56,082:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/3 HTTP/1.1" 200 None
+2021-12-29 13:11:56,095:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:11:56,676:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/4 HTTP/1.1" 200 None
+2021-12-29 13:11:56,694:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:11:57,783:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/5 HTTP/1.1" 200 None
+2021-12-29 13:11:57,801:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:11:58,293:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/6 HTTP/1.1" 200 None
+2021-12-29 13:11:58,307:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:11:58,818:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/7 HTTP/1.1" 200 None
+2021-12-29 13:11:58,830:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:11:59,564:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/8 HTTP/1.1" 200 None
+2021-12-29 13:11:59,580:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:12:00,178:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/9 HTTP/1.1" 200 None
+2021-12-29 13:12:00,193:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:12:00,792:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/10 HTTP/1.1" 200 None
+2021-12-29 13:13:29,539:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:13:31,316:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects HTTP/1.1" 200 None
+2021-12-29 13:13:44,305:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:13:45,038:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/1 HTTP/1.1" 200 None
+2021-12-29 13:13:45,052:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:13:45,655:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/2 HTTP/1.1" 200 None
+2021-12-29 13:13:45,676:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:13:46,266:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/3 HTTP/1.1" 200 None
+2021-12-29 13:13:46,280:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:13:47,313:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/4 HTTP/1.1" 200 None
+2021-12-29 13:13:47,326:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:13:47,905:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/5 HTTP/1.1" 200 None
+2021-12-29 13:13:47,932:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:13:48,518:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/6 HTTP/1.1" 200 None
+2021-12-29 13:13:48,534:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:13:49,079:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/7 HTTP/1.1" 200 None
+2021-12-29 13:13:49,093:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:13:49,645:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/8 HTTP/1.1" 200 None
+2021-12-29 13:13:49,657:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:13:50,372:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/9 HTTP/1.1" 200 None
+2021-12-29 13:13:50,385:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:13:50,957:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/10 HTTP/1.1" 200 None
+2021-12-29 13:15:19,705:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:15:21,159:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects HTTP/1.1" 200 None
+2021-12-29 13:15:34,171:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:15:34,648:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/1 HTTP/1.1" 200 None
+2021-12-29 13:15:34,652:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:15:35,197:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/2 HTTP/1.1" 200 None
+2021-12-29 13:15:35,215:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:15:35,688:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/3 HTTP/1.1" 200 None
+2021-12-29 13:15:35,692:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:15:36,672:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/4 HTTP/1.1" 200 None
+2021-12-29 13:15:36,676:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:15:37,163:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/5 HTTP/1.1" 200 None
+2021-12-29 13:15:37,167:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:15:37,660:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/6 HTTP/1.1" 200 None
+2021-12-29 13:15:37,663:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:15:38,130:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/7 HTTP/1.1" 200 None
+2021-12-29 13:15:38,134:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:15:38,630:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/8 HTTP/1.1" 200 None
+2021-12-29 13:15:38,634:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:15:39,157:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/9 HTTP/1.1" 200 None
+2021-12-29 13:15:39,162:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 13:15:39,647:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/10 HTTP/1.1" 200 None
+2021-12-29 21:42:36,524:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-29 21:42:39,235:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects HTTP/1.1" 200 None
+2021-12-29 22:58:56,510:ERROR:Something went wrong while creating the reports directory: Cannot create a file when that file already exists
+Traceback (most recent call last):
+  File "C:\Users\shree\PycharmProjects\museum_api_packaging\src\museum_api_convert_files\csv_to_diff_form.py", line 44, in json_to_csv
+    os.mkdir('./reports')
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: './reports'
+2021-12-29 23:00:16,567:ERROR:Something went wrong while creating the reports directory: Cannot create a file when that file already exists
+Traceback (most recent call last):
+  File "C:\Users\shree\PycharmProjects\museum_api_packaging\src\museum_api_convert_files\csv_to_diff_form.py", line 44, in json_to_csv
+    os.mkdir('./reports')
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: './reports'
+2021-12-29 23:42:41,443:ERROR:FileNotFoundError: HTML report doesnt exist
+NoneType: None
+2021-12-29 23:45:03,272:ERROR:FileNotFoundError: HTML report doesnt exist
+NoneType: None
+2021-12-29 23:56:04,909:ERROR:FileNotFoundError: HTML report doesnt exist
+NoneType: None
+2021-12-29 23:59:09,255:ERROR:FileNotFoundError: HTML report doesnt exist
+NoneType: None
+2021-12-30 00:07:41,090:ERROR:FileNotFoundError: HTML report doesnt exist
+NoneType: None
+2021-12-30 00:09:45,661:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-30 00:09:47,831:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects HTTP/1.1" 200 None
+2021-12-30 00:12:25,634:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-30 00:12:27,338:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects HTTP/1.1" 200 None
+2021-12-30 00:12:40,600:ERROR:File opened somewhere else : [Errno 13] Permission denied: 'C:\\Users\\shree\\PycharmProjects\\museum_api_packaging\\tests\\../temp_folder\\csv_file.csv'
+2021-12-30 00:13:49,792:ERROR:File opened somewhere else : [Errno 13] Permission denied: 'C:\\Users\\shree\\PycharmProjects\\museum_api_packaging\\tests\\../temp_folder\\csv_file.csv'
+2021-12-30 00:14:11,981:ERROR:File opened somewhere else : [Errno 13] Permission denied: 'C:\\Users\\shree\\PycharmProjects\\museum_api_packaging\\tests\\../temp_folder\\csv_file.csv'
+2021-12-30 01:20:15,733:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-30 01:20:16,458:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/a HTTP/1.1" 400 None
+2021-12-30 01:20:33,311:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-30 01:20:33,827:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/a HTTP/1.1" 400 None
+2021-12-30 01:21:54,927:DEBUG:Starting new HTTPS connection (1): collectionapi.metmuseum.org:443
+2021-12-30 01:21:56,629:DEBUG:https://collectionapi.metmuseum.org:443 "GET /public/collection/v1/objects/a HTTP/1.1" 400 None

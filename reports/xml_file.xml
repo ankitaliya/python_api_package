@@ -1,0 +1,900 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <objectID>1</objectID>
+    <isHighlight>False</isHighlight>
+    <accessionNumber>1979.486.1</accessionNumber>
+    <accessionYear>1979</accessionYear>
+    <isPublicDomain>False</isPublicDomain>
+    <primaryImage/>
+    <primaryImageSmall/>
+    <additionalImages>[]</additionalImages>
+    <department>The American Wing</department>
+    <objectName>Coin</objectName>
+    <title>One-dollar Liberty Head Coin</title>
+    <culture/>
+    <period/>
+    <dynasty/>
+    <reign/>
+    <portfolio/>
+    <artistRole>Maker</artistRole>
+    <artistPrefix/>
+    <artistDisplayName>James Barton Longacre</artistDisplayName>
+    <artistDisplayBio>American, Delaware County, Pennsylvania 1794–1869 Philadelphia, Pennsylvania</artistDisplayBio>
+    <artistSuffix/>
+    <artistAlphaSort>Longacre, James Barton</artistAlphaSort>
+    <artistNationality>American</artistNationality>
+    <artistBeginDate>1794</artistBeginDate>
+    <artistEndDate>1869</artistEndDate>
+    <artistGender/>
+    <artistWikidata_URL>https://www.wikidata.org/wiki/Q3806459</artistWikidata_URL>
+    <artistULAN_URL>http://vocab.getty.edu/page/ulan/500011409</artistULAN_URL>
+    <objectDate>1853</objectDate>
+    <objectBeginDate>1853</objectBeginDate>
+    <objectEndDate>1853</objectEndDate>
+    <medium>Gold</medium>
+    <dimensions>Dimensions unavailable</dimensions>
+    <creditLine>Gift of Heinz L. Stoppelmann, 1979</creditLine>
+    <geographyType/>
+    <city/>
+    <state/>
+    <county/>
+    <country/>
+    <region/>
+    <subregion/>
+    <locale/>
+    <locus/>
+    <excavation/>
+    <river/>
+    <classification/>
+    <rightsAndReproduction/>
+    <linkResource/>
+    <metadataDate>2021-04-06T04:41:04.967Z</metadataDate>
+    <repository>Metropolitan Museum of Art, New York, NY</repository>
+    <objectURL>https://www.metmuseum.org/art/collection/search/1</objectURL>
+    <objectWikidata_URL/>
+    <isTimelineWork>False</isTimelineWork>
+    <GalleryNumber/>
+    <constituents.constituentID>164292.0</constituents.constituentID>
+    <constituents.role>Maker</constituents.role>
+    <constituents.name>James Barton Longacre</constituents.name>
+    <constituents.constituentULAN_URL>http://vocab.getty.edu/page/ulan/500011409</constituents.constituentULAN_URL>
+    <constituents.constituentWikidata_URL>https://www.wikidata.org/wiki/Q3806459</constituents.constituentWikidata_URL>
+    <constituents.gender/>
+    <measurements.elementName>0</measurements.elementName>
+    <measurements.elementDescription>0</measurements.elementDescription>
+    <measurements.elementMeasurements.Diameter>0.0</measurements.elementMeasurements.Diameter>
+    <tags.term>0</tags.term>
+    <tags.AAT_URL>0</tags.AAT_URL>
+    <tags.Wikidata_URL>0</tags.Wikidata_URL>
+  </row>
+  <row>
+    <index>1</index>
+    <objectID>2</objectID>
+    <isHighlight>False</isHighlight>
+    <accessionNumber>1980.264.5</accessionNumber>
+    <accessionYear>1980</accessionYear>
+    <isPublicDomain>False</isPublicDomain>
+    <primaryImage/>
+    <primaryImageSmall/>
+    <additionalImages>[]</additionalImages>
+    <department>The American Wing</department>
+    <objectName>Coin</objectName>
+    <title>Ten-dollar Liberty Head Coin</title>
+    <culture/>
+    <period/>
+    <dynasty/>
+    <reign/>
+    <portfolio/>
+    <artistRole>Maker</artistRole>
+    <artistPrefix/>
+    <artistDisplayName>Christian Gobrecht</artistDisplayName>
+    <artistDisplayBio>1785–1844</artistDisplayBio>
+    <artistSuffix/>
+    <artistAlphaSort>Gobrecht, Christian</artistAlphaSort>
+    <artistNationality/>
+    <artistBeginDate>1785</artistBeginDate>
+    <artistEndDate>1844</artistEndDate>
+    <artistGender/>
+    <artistWikidata_URL>https://www.wikidata.org/wiki/Q5109648</artistWikidata_URL>
+    <artistULAN_URL>http://vocab.getty.edu/page/ulan/500077295</artistULAN_URL>
+    <objectDate>1901</objectDate>
+    <objectBeginDate>1901</objectBeginDate>
+    <objectEndDate>1901</objectEndDate>
+    <medium>Gold</medium>
+    <dimensions>Dimensions unavailable</dimensions>
+    <creditLine>Gift of Heinz L. Stoppelmann, 1980</creditLine>
+    <geographyType/>
+    <city/>
+    <state/>
+    <county/>
+    <country/>
+    <region/>
+    <subregion/>
+    <locale/>
+    <locus/>
+    <excavation/>
+    <river/>
+    <classification/>
+    <rightsAndReproduction/>
+    <linkResource/>
+    <metadataDate>2021-04-06T04:41:04.967Z</metadataDate>
+    <repository>Metropolitan Museum of Art, New York, NY</repository>
+    <objectURL>https://www.metmuseum.org/art/collection/search/2</objectURL>
+    <objectWikidata_URL/>
+    <isTimelineWork>False</isTimelineWork>
+    <GalleryNumber/>
+    <constituents.constituentID>1079.0</constituents.constituentID>
+    <constituents.role>Maker</constituents.role>
+    <constituents.name>Christian Gobrecht</constituents.name>
+    <constituents.constituentULAN_URL>http://vocab.getty.edu/page/ulan/500077295</constituents.constituentULAN_URL>
+    <constituents.constituentWikidata_URL>https://www.wikidata.org/wiki/Q5109648</constituents.constituentWikidata_URL>
+    <constituents.gender/>
+    <measurements.elementName>0</measurements.elementName>
+    <measurements.elementDescription>0</measurements.elementDescription>
+    <measurements.elementMeasurements.Diameter>0.0</measurements.elementMeasurements.Diameter>
+    <tags.term>0</tags.term>
+    <tags.AAT_URL>0</tags.AAT_URL>
+    <tags.Wikidata_URL>0</tags.Wikidata_URL>
+  </row>
+  <row>
+    <index>2</index>
+    <objectID>3</objectID>
+    <isHighlight>False</isHighlight>
+    <accessionNumber>67.265.9</accessionNumber>
+    <accessionYear>1967</accessionYear>
+    <isPublicDomain>False</isPublicDomain>
+    <primaryImage/>
+    <primaryImageSmall/>
+    <additionalImages>[]</additionalImages>
+    <department>The American Wing</department>
+    <objectName>Coin</objectName>
+    <title>Two-and-a-Half Dollar Coin</title>
+    <culture/>
+    <period/>
+    <dynasty/>
+    <reign/>
+    <portfolio/>
+    <artistRole/>
+    <artistPrefix/>
+    <artistDisplayName/>
+    <artistDisplayBio/>
+    <artistSuffix/>
+    <artistAlphaSort/>
+    <artistNationality/>
+    <artistBeginDate/>
+    <artistEndDate/>
+    <artistGender/>
+    <artistWikidata_URL/>
+    <artistULAN_URL/>
+    <objectDate>1909–27</objectDate>
+    <objectBeginDate>1909</objectBeginDate>
+    <objectEndDate>1927</objectEndDate>
+    <medium>Gold</medium>
+    <dimensions>Diam. 11/16 in. (1.7 cm)</dimensions>
+    <creditLine>Gift of C. Ruxton Love Jr., 1967</creditLine>
+    <geographyType/>
+    <city/>
+    <state/>
+    <county/>
+    <country/>
+    <region/>
+    <subregion/>
+    <locale/>
+    <locus/>
+    <excavation/>
+    <river/>
+    <classification/>
+    <rightsAndReproduction/>
+    <linkResource/>
+    <metadataDate>2021-04-06T04:41:04.967Z</metadataDate>
+    <repository>Metropolitan Museum of Art, New York, NY</repository>
+    <objectURL>https://www.metmuseum.org/art/collection/search/3</objectURL>
+    <objectWikidata_URL/>
+    <isTimelineWork>False</isTimelineWork>
+    <GalleryNumber/>
+    <constituents.constituentID>0.0</constituents.constituentID>
+    <constituents.role>0</constituents.role>
+    <constituents.name>0</constituents.name>
+    <constituents.constituentULAN_URL>0</constituents.constituentULAN_URL>
+    <constituents.constituentWikidata_URL>0</constituents.constituentWikidata_URL>
+    <constituents.gender>0</constituents.gender>
+    <measurements.elementName>Other</measurements.elementName>
+    <measurements.elementDescription>Object diameter</measurements.elementDescription>
+    <measurements.elementMeasurements.Diameter>1.7463</measurements.elementMeasurements.Diameter>
+    <tags.term>0</tags.term>
+    <tags.AAT_URL>0</tags.AAT_URL>
+    <tags.Wikidata_URL>0</tags.Wikidata_URL>
+  </row>
+  <row>
+    <index>3</index>
+    <objectID>4</objectID>
+    <isHighlight>False</isHighlight>
+    <accessionNumber>67.265.10</accessionNumber>
+    <accessionYear>1967</accessionYear>
+    <isPublicDomain>False</isPublicDomain>
+    <primaryImage/>
+    <primaryImageSmall/>
+    <additionalImages>[]</additionalImages>
+    <department>The American Wing</department>
+    <objectName>Coin</objectName>
+    <title>Two-and-a-Half Dollar Coin</title>
+    <culture/>
+    <period/>
+    <dynasty/>
+    <reign/>
+    <portfolio/>
+    <artistRole/>
+    <artistPrefix/>
+    <artistDisplayName/>
+    <artistDisplayBio/>
+    <artistSuffix/>
+    <artistAlphaSort/>
+    <artistNationality/>
+    <artistBeginDate/>
+    <artistEndDate/>
+    <artistGender/>
+    <artistWikidata_URL/>
+    <artistULAN_URL/>
+    <objectDate>1909–27</objectDate>
+    <objectBeginDate>1909</objectBeginDate>
+    <objectEndDate>1927</objectEndDate>
+    <medium>Gold</medium>
+    <dimensions>Diam. 11/16 in. (1.7 cm)</dimensions>
+    <creditLine>Gift of C. Ruxton Love Jr., 1967</creditLine>
+    <geographyType/>
+    <city/>
+    <state/>
+    <county/>
+    <country/>
+    <region/>
+    <subregion/>
+    <locale/>
+    <locus/>
+    <excavation/>
+    <river/>
+    <classification/>
+    <rightsAndReproduction/>
+    <linkResource/>
+    <metadataDate>2021-04-06T04:41:04.967Z</metadataDate>
+    <repository>Metropolitan Museum of Art, New York, NY</repository>
+    <objectURL>https://www.metmuseum.org/art/collection/search/4</objectURL>
+    <objectWikidata_URL/>
+    <isTimelineWork>False</isTimelineWork>
+    <GalleryNumber/>
+    <constituents.constituentID>0.0</constituents.constituentID>
+    <constituents.role>0</constituents.role>
+    <constituents.name>0</constituents.name>
+    <constituents.constituentULAN_URL>0</constituents.constituentULAN_URL>
+    <constituents.constituentWikidata_URL>0</constituents.constituentWikidata_URL>
+    <constituents.gender>0</constituents.gender>
+    <measurements.elementName>Other</measurements.elementName>
+    <measurements.elementDescription>Object diameter</measurements.elementDescription>
+    <measurements.elementMeasurements.Diameter>1.7463</measurements.elementMeasurements.Diameter>
+    <tags.term>0</tags.term>
+    <tags.AAT_URL>0</tags.AAT_URL>
+    <tags.Wikidata_URL>0</tags.Wikidata_URL>
+  </row>
+  <row>
+    <index>4</index>
+    <objectID>5</objectID>
+    <isHighlight>False</isHighlight>
+    <accessionNumber>67.265.11</accessionNumber>
+    <accessionYear>1967</accessionYear>
+    <isPublicDomain>False</isPublicDomain>
+    <primaryImage/>
+    <primaryImageSmall/>
+    <additionalImages>[]</additionalImages>
+    <department>The American Wing</department>
+    <objectName>Coin</objectName>
+    <title>Two-and-a-Half Dollar Coin</title>
+    <culture/>
+    <period/>
+    <dynasty/>
+    <reign/>
+    <portfolio/>
+    <artistRole/>
+    <artistPrefix/>
+    <artistDisplayName/>
+    <artistDisplayBio/>
+    <artistSuffix/>
+    <artistAlphaSort/>
+    <artistNationality/>
+    <artistBeginDate/>
+    <artistEndDate/>
+    <artistGender/>
+    <artistWikidata_URL/>
+    <artistULAN_URL/>
+    <objectDate>1909–27</objectDate>
+    <objectBeginDate>1909</objectBeginDate>
+    <objectEndDate>1927</objectEndDate>
+    <medium>Gold</medium>
+    <dimensions>Diam. 11/16 in. (1.7 cm)</dimensions>
+    <creditLine>Gift of C. Ruxton Love Jr., 1967</creditLine>
+    <geographyType/>
+    <city/>
+    <state/>
+    <county/>
+    <country/>
+    <region/>
+    <subregion/>
+    <locale/>
+    <locus/>
+    <excavation/>
+    <river/>
+    <classification/>
+    <rightsAndReproduction/>
+    <linkResource/>
+    <metadataDate>2021-04-06T04:41:04.967Z</metadataDate>
+    <repository>Metropolitan Museum of Art, New York, NY</repository>
+    <objectURL>https://www.metmuseum.org/art/collection/search/5</objectURL>
+    <objectWikidata_URL/>
+    <isTimelineWork>False</isTimelineWork>
+    <GalleryNumber/>
+    <constituents.constituentID>0.0</constituents.constituentID>
+    <constituents.role>0</constituents.role>
+    <constituents.name>0</constituents.name>
+    <constituents.constituentULAN_URL>0</constituents.constituentULAN_URL>
+    <constituents.constituentWikidata_URL>0</constituents.constituentWikidata_URL>
+    <constituents.gender>0</constituents.gender>
+    <measurements.elementName>Other</measurements.elementName>
+    <measurements.elementDescription>Object diameter</measurements.elementDescription>
+    <measurements.elementMeasurements.Diameter>1.7463</measurements.elementMeasurements.Diameter>
+    <tags.term>0</tags.term>
+    <tags.AAT_URL>0</tags.AAT_URL>
+    <tags.Wikidata_URL>0</tags.Wikidata_URL>
+  </row>
+  <row>
+    <index>5</index>
+    <objectID>6</objectID>
+    <isHighlight>False</isHighlight>
+    <accessionNumber>67.265.12</accessionNumber>
+    <accessionYear>1967</accessionYear>
+    <isPublicDomain>False</isPublicDomain>
+    <primaryImage/>
+    <primaryImageSmall/>
+    <additionalImages>[]</additionalImages>
+    <department>The American Wing</department>
+    <objectName>Coin</objectName>
+    <title>Two-and-a-Half Dollar Coin</title>
+    <culture/>
+    <period/>
+    <dynasty/>
+    <reign/>
+    <portfolio/>
+    <artistRole/>
+    <artistPrefix/>
+    <artistDisplayName/>
+    <artistDisplayBio/>
+    <artistSuffix/>
+    <artistAlphaSort/>
+    <artistNationality/>
+    <artistBeginDate/>
+    <artistEndDate/>
+    <artistGender/>
+    <artistWikidata_URL/>
+    <artistULAN_URL/>
+    <objectDate>1909–27</objectDate>
+    <objectBeginDate>1909</objectBeginDate>
+    <objectEndDate>1927</objectEndDate>
+    <medium>Gold</medium>
+    <dimensions>Diam. 11/16 in. (1.7 cm)</dimensions>
+    <creditLine>Gift of C. Ruxton Love Jr., 1967</creditLine>
+    <geographyType/>
+    <city/>
+    <state/>
+    <county/>
+    <country/>
+    <region/>
+    <subregion/>
+    <locale/>
+    <locus/>
+    <excavation/>
+    <river/>
+    <classification/>
+    <rightsAndReproduction/>
+    <linkResource/>
+    <metadataDate>2021-04-06T04:41:04.967Z</metadataDate>
+    <repository>Metropolitan Museum of Art, New York, NY</repository>
+    <objectURL>https://www.metmuseum.org/art/collection/search/6</objectURL>
+    <objectWikidata_URL/>
+    <isTimelineWork>False</isTimelineWork>
+    <GalleryNumber/>
+    <constituents.constituentID>0.0</constituents.constituentID>
+    <constituents.role>0</constituents.role>
+    <constituents.name>0</constituents.name>
+    <constituents.constituentULAN_URL>0</constituents.constituentULAN_URL>
+    <constituents.constituentWikidata_URL>0</constituents.constituentWikidata_URL>
+    <constituents.gender>0</constituents.gender>
+    <measurements.elementName>Other</measurements.elementName>
+    <measurements.elementDescription>Object diameter</measurements.elementDescription>
+    <measurements.elementMeasurements.Diameter>1.7463</measurements.elementMeasurements.Diameter>
+    <tags.term>0</tags.term>
+    <tags.AAT_URL>0</tags.AAT_URL>
+    <tags.Wikidata_URL>0</tags.Wikidata_URL>
+  </row>
+  <row>
+    <index>6</index>
+    <objectID>7</objectID>
+    <isHighlight>False</isHighlight>
+    <accessionNumber>67.265.13</accessionNumber>
+    <accessionYear>1967</accessionYear>
+    <isPublicDomain>False</isPublicDomain>
+    <primaryImage/>
+    <primaryImageSmall/>
+    <additionalImages>[]</additionalImages>
+    <department>The American Wing</department>
+    <objectName>Coin</objectName>
+    <title>Two-and-a-Half Dollar Coin</title>
+    <culture/>
+    <period/>
+    <dynasty/>
+    <reign/>
+    <portfolio/>
+    <artistRole/>
+    <artistPrefix/>
+    <artistDisplayName/>
+    <artistDisplayBio/>
+    <artistSuffix/>
+    <artistAlphaSort/>
+    <artistNationality/>
+    <artistBeginDate/>
+    <artistEndDate/>
+    <artistGender/>
+    <artistWikidata_URL/>
+    <artistULAN_URL/>
+    <objectDate>1909–27</objectDate>
+    <objectBeginDate>1909</objectBeginDate>
+    <objectEndDate>1927</objectEndDate>
+    <medium>Gold</medium>
+    <dimensions>Diam. 11/16 in. (1.7 cm)</dimensions>
+    <creditLine>Gift of C. Ruxton Love Jr., 1967</creditLine>
+    <geographyType/>
+    <city/>
+    <state/>
+    <county/>
+    <country/>
+    <region/>
+    <subregion/>
+    <locale/>
+    <locus/>
+    <excavation/>
+    <river/>
+    <classification/>
+    <rightsAndReproduction/>
+    <linkResource/>
+    <metadataDate>2021-04-06T04:41:04.967Z</metadataDate>
+    <repository>Metropolitan Museum of Art, New York, NY</repository>
+    <objectURL>https://www.metmuseum.org/art/collection/search/7</objectURL>
+    <objectWikidata_URL/>
+    <isTimelineWork>False</isTimelineWork>
+    <GalleryNumber/>
+    <constituents.constituentID>0.0</constituents.constituentID>
+    <constituents.role>0</constituents.role>
+    <constituents.name>0</constituents.name>
+    <constituents.constituentULAN_URL>0</constituents.constituentULAN_URL>
+    <constituents.constituentWikidata_URL>0</constituents.constituentWikidata_URL>
+    <constituents.gender>0</constituents.gender>
+    <measurements.elementName>Other</measurements.elementName>
+    <measurements.elementDescription>Object diameter</measurements.elementDescription>
+    <measurements.elementMeasurements.Diameter>1.7463</measurements.elementMeasurements.Diameter>
+    <tags.term>Birds</tags.term>
+    <tags.AAT_URL>http://vocab.getty.edu/page/aat/300266506</tags.AAT_URL>
+    <tags.Wikidata_URL>https://www.wikidata.org/wiki/Q5113</tags.Wikidata_URL>
+  </row>
+  <row>
+    <index>7</index>
+    <objectID>7</objectID>
+    <isHighlight>False</isHighlight>
+    <accessionNumber>67.265.13</accessionNumber>
+    <accessionYear>1967</accessionYear>
+    <isPublicDomain>False</isPublicDomain>
+    <primaryImage/>
+    <primaryImageSmall/>
+    <additionalImages>[]</additionalImages>
+    <department>The American Wing</department>
+    <objectName>Coin</objectName>
+    <title>Two-and-a-Half Dollar Coin</title>
+    <culture/>
+    <period/>
+    <dynasty/>
+    <reign/>
+    <portfolio/>
+    <artistRole/>
+    <artistPrefix/>
+    <artistDisplayName/>
+    <artistDisplayBio/>
+    <artistSuffix/>
+    <artistAlphaSort/>
+    <artistNationality/>
+    <artistBeginDate/>
+    <artistEndDate/>
+    <artistGender/>
+    <artistWikidata_URL/>
+    <artistULAN_URL/>
+    <objectDate>1909–27</objectDate>
+    <objectBeginDate>1909</objectBeginDate>
+    <objectEndDate>1927</objectEndDate>
+    <medium>Gold</medium>
+    <dimensions>Diam. 11/16 in. (1.7 cm)</dimensions>
+    <creditLine>Gift of C. Ruxton Love Jr., 1967</creditLine>
+    <geographyType/>
+    <city/>
+    <state/>
+    <county/>
+    <country/>
+    <region/>
+    <subregion/>
+    <locale/>
+    <locus/>
+    <excavation/>
+    <river/>
+    <classification/>
+    <rightsAndReproduction/>
+    <linkResource/>
+    <metadataDate>2021-04-06T04:41:04.967Z</metadataDate>
+    <repository>Metropolitan Museum of Art, New York, NY</repository>
+    <objectURL>https://www.metmuseum.org/art/collection/search/7</objectURL>
+    <objectWikidata_URL/>
+    <isTimelineWork>False</isTimelineWork>
+    <GalleryNumber/>
+    <constituents.constituentID>0.0</constituents.constituentID>
+    <constituents.role>0</constituents.role>
+    <constituents.name>0</constituents.name>
+    <constituents.constituentULAN_URL>0</constituents.constituentULAN_URL>
+    <constituents.constituentWikidata_URL>0</constituents.constituentWikidata_URL>
+    <constituents.gender>0</constituents.gender>
+    <measurements.elementName>Other</measurements.elementName>
+    <measurements.elementDescription>Object diameter</measurements.elementDescription>
+    <measurements.elementMeasurements.Diameter>1.7463</measurements.elementMeasurements.Diameter>
+    <tags.term>Coins</tags.term>
+    <tags.AAT_URL>http://vocab.getty.edu/page/aat/300037222</tags.AAT_URL>
+    <tags.Wikidata_URL>https://www.wikidata.org/wiki/Q41207</tags.Wikidata_URL>
+  </row>
+  <row>
+    <index>8</index>
+    <objectID>8</objectID>
+    <isHighlight>False</isHighlight>
+    <accessionNumber>67.265.14</accessionNumber>
+    <accessionYear>1967</accessionYear>
+    <isPublicDomain>False</isPublicDomain>
+    <primaryImage/>
+    <primaryImageSmall/>
+    <additionalImages>[]</additionalImages>
+    <department>The American Wing</department>
+    <objectName>Coin</objectName>
+    <title>Two-and-a-Half Dollar Coin</title>
+    <culture/>
+    <period/>
+    <dynasty/>
+    <reign/>
+    <portfolio/>
+    <artistRole/>
+    <artistPrefix/>
+    <artistDisplayName/>
+    <artistDisplayBio/>
+    <artistSuffix/>
+    <artistAlphaSort/>
+    <artistNationality/>
+    <artistBeginDate/>
+    <artistEndDate/>
+    <artistGender/>
+    <artistWikidata_URL/>
+    <artistULAN_URL/>
+    <objectDate>1909–27</objectDate>
+    <objectBeginDate>1909</objectBeginDate>
+    <objectEndDate>1927</objectEndDate>
+    <medium>Gold</medium>
+    <dimensions>Diam. 11/16 in. (1.7 cm)</dimensions>
+    <creditLine>Gift of C. Ruxton Love Jr., 1967</creditLine>
+    <geographyType/>
+    <city/>
+    <state/>
+    <county/>
+    <country/>
+    <region/>
+    <subregion/>
+    <locale/>
+    <locus/>
+    <excavation/>
+    <river/>
+    <classification/>
+    <rightsAndReproduction/>
+    <linkResource/>
+    <metadataDate>2021-04-06T04:41:04.967Z</metadataDate>
+    <repository>Metropolitan Museum of Art, New York, NY</repository>
+    <objectURL>https://www.metmuseum.org/art/collection/search/8</objectURL>
+    <objectWikidata_URL/>
+    <isTimelineWork>False</isTimelineWork>
+    <GalleryNumber/>
+    <constituents.constituentID>0.0</constituents.constituentID>
+    <constituents.role>0</constituents.role>
+    <constituents.name>0</constituents.name>
+    <constituents.constituentULAN_URL>0</constituents.constituentULAN_URL>
+    <constituents.constituentWikidata_URL>0</constituents.constituentWikidata_URL>
+    <constituents.gender>0</constituents.gender>
+    <measurements.elementName>Other</measurements.elementName>
+    <measurements.elementDescription>Object diameter</measurements.elementDescription>
+    <measurements.elementMeasurements.Diameter>1.7463</measurements.elementMeasurements.Diameter>
+    <tags.term>Men</tags.term>
+    <tags.AAT_URL>http://vocab.getty.edu/page/aat/300025928</tags.AAT_URL>
+    <tags.Wikidata_URL>https://www.wikidata.org/wiki/Q8441</tags.Wikidata_URL>
+  </row>
+  <row>
+    <index>9</index>
+    <objectID>8</objectID>
+    <isHighlight>False</isHighlight>
+    <accessionNumber>67.265.14</accessionNumber>
+    <accessionYear>1967</accessionYear>
+    <isPublicDomain>False</isPublicDomain>
+    <primaryImage/>
+    <primaryImageSmall/>
+    <additionalImages>[]</additionalImages>
+    <department>The American Wing</department>
+    <objectName>Coin</objectName>
+    <title>Two-and-a-Half Dollar Coin</title>
+    <culture/>
+    <period/>
+    <dynasty/>
+    <reign/>
+    <portfolio/>
+    <artistRole/>
+    <artistPrefix/>
+    <artistDisplayName/>
+    <artistDisplayBio/>
+    <artistSuffix/>
+    <artistAlphaSort/>
+    <artistNationality/>
+    <artistBeginDate/>
+    <artistEndDate/>
+    <artistGender/>
+    <artistWikidata_URL/>
+    <artistULAN_URL/>
+    <objectDate>1909–27</objectDate>
+    <objectBeginDate>1909</objectBeginDate>
+    <objectEndDate>1927</objectEndDate>
+    <medium>Gold</medium>
+    <dimensions>Diam. 11/16 in. (1.7 cm)</dimensions>
+    <creditLine>Gift of C. Ruxton Love Jr., 1967</creditLine>
+    <geographyType/>
+    <city/>
+    <state/>
+    <county/>
+    <country/>
+    <region/>
+    <subregion/>
+    <locale/>
+    <locus/>
+    <excavation/>
+    <river/>
+    <classification/>
+    <rightsAndReproduction/>
+    <linkResource/>
+    <metadataDate>2021-04-06T04:41:04.967Z</metadataDate>
+    <repository>Metropolitan Museum of Art, New York, NY</repository>
+    <objectURL>https://www.metmuseum.org/art/collection/search/8</objectURL>
+    <objectWikidata_URL/>
+    <isTimelineWork>False</isTimelineWork>
+    <GalleryNumber/>
+    <constituents.constituentID>0.0</constituents.constituentID>
+    <constituents.role>0</constituents.role>
+    <constituents.name>0</constituents.name>
+    <constituents.constituentULAN_URL>0</constituents.constituentULAN_URL>
+    <constituents.constituentWikidata_URL>0</constituents.constituentWikidata_URL>
+    <constituents.gender>0</constituents.gender>
+    <measurements.elementName>Other</measurements.elementName>
+    <measurements.elementDescription>Object diameter</measurements.elementDescription>
+    <measurements.elementMeasurements.Diameter>1.7463</measurements.elementMeasurements.Diameter>
+    <tags.term>Profiles</tags.term>
+    <tags.AAT_URL>http://vocab.getty.edu/page/aat/300123319</tags.AAT_URL>
+    <tags.Wikidata_URL>https://www.wikidata.org/wiki/Q4382010</tags.Wikidata_URL>
+  </row>
+  <row>
+    <index>10</index>
+    <objectID>8</objectID>
+    <isHighlight>False</isHighlight>
+    <accessionNumber>67.265.14</accessionNumber>
+    <accessionYear>1967</accessionYear>
+    <isPublicDomain>False</isPublicDomain>
+    <primaryImage/>
+    <primaryImageSmall/>
+    <additionalImages>[]</additionalImages>
+    <department>The American Wing</department>
+    <objectName>Coin</objectName>
+    <title>Two-and-a-Half Dollar Coin</title>
+    <culture/>
+    <period/>
+    <dynasty/>
+    <reign/>
+    <portfolio/>
+    <artistRole/>
+    <artistPrefix/>
+    <artistDisplayName/>
+    <artistDisplayBio/>
+    <artistSuffix/>
+    <artistAlphaSort/>
+    <artistNationality/>
+    <artistBeginDate/>
+    <artistEndDate/>
+    <artistGender/>
+    <artistWikidata_URL/>
+    <artistULAN_URL/>
+    <objectDate>1909–27</objectDate>
+    <objectBeginDate>1909</objectBeginDate>
+    <objectEndDate>1927</objectEndDate>
+    <medium>Gold</medium>
+    <dimensions>Diam. 11/16 in. (1.7 cm)</dimensions>
+    <creditLine>Gift of C. Ruxton Love Jr., 1967</creditLine>
+    <geographyType/>
+    <city/>
+    <state/>
+    <county/>
+    <country/>
+    <region/>
+    <subregion/>
+    <locale/>
+    <locus/>
+    <excavation/>
+    <river/>
+    <classification/>
+    <rightsAndReproduction/>
+    <linkResource/>
+    <metadataDate>2021-04-06T04:41:04.967Z</metadataDate>
+    <repository>Metropolitan Museum of Art, New York, NY</repository>
+    <objectURL>https://www.metmuseum.org/art/collection/search/8</objectURL>
+    <objectWikidata_URL/>
+    <isTimelineWork>False</isTimelineWork>
+    <GalleryNumber/>
+    <constituents.constituentID>0.0</constituents.constituentID>
+    <constituents.role>0</constituents.role>
+    <constituents.name>0</constituents.name>
+    <constituents.constituentULAN_URL>0</constituents.constituentULAN_URL>
+    <constituents.constituentWikidata_URL>0</constituents.constituentWikidata_URL>
+    <constituents.gender>0</constituents.gender>
+    <measurements.elementName>Other</measurements.elementName>
+    <measurements.elementDescription>Object diameter</measurements.elementDescription>
+    <measurements.elementMeasurements.Diameter>1.7463</measurements.elementMeasurements.Diameter>
+    <tags.term>Eagles</tags.term>
+    <tags.AAT_URL>http://vocab.getty.edu/page/aat/300250049</tags.AAT_URL>
+    <tags.Wikidata_URL>https://www.wikidata.org/wiki/Q2092297</tags.Wikidata_URL>
+  </row>
+  <row>
+    <index>11</index>
+    <objectID>9</objectID>
+    <isHighlight>False</isHighlight>
+    <accessionNumber>67.265.15</accessionNumber>
+    <accessionYear>1967</accessionYear>
+    <isPublicDomain>False</isPublicDomain>
+    <primaryImage/>
+    <primaryImageSmall/>
+    <additionalImages>[]</additionalImages>
+    <department>The American Wing</department>
+    <objectName>Coin</objectName>
+    <title>Two-and-a-Half Dollar Coin</title>
+    <culture/>
+    <period/>
+    <dynasty/>
+    <reign/>
+    <portfolio/>
+    <artistRole/>
+    <artistPrefix/>
+    <artistDisplayName/>
+    <artistDisplayBio/>
+    <artistSuffix/>
+    <artistAlphaSort/>
+    <artistNationality/>
+    <artistBeginDate/>
+    <artistEndDate/>
+    <artistGender/>
+    <artistWikidata_URL/>
+    <artistULAN_URL/>
+    <objectDate>1909–27</objectDate>
+    <objectBeginDate>1909</objectBeginDate>
+    <objectEndDate>1927</objectEndDate>
+    <medium>Gold</medium>
+    <dimensions>Diam. 11/16 in. (1.7 cm)</dimensions>
+    <creditLine>Gift of C. Ruxton Love Jr., 1967</creditLine>
+    <geographyType/>
+    <city/>
+    <state/>
+    <county/>
+    <country/>
+    <region/>
+    <subregion/>
+    <locale/>
+    <locus/>
+    <excavation/>
+    <river/>
+    <classification/>
+    <rightsAndReproduction/>
+    <linkResource/>
+    <metadataDate>2021-04-06T04:41:04.967Z</metadataDate>
+    <repository>Metropolitan Museum of Art, New York, NY</repository>
+    <objectURL>https://www.metmuseum.org/art/collection/search/9</objectURL>
+    <objectWikidata_URL/>
+    <isTimelineWork>False</isTimelineWork>
+    <GalleryNumber/>
+    <constituents.constituentID>0.0</constituents.constituentID>
+    <constituents.role>0</constituents.role>
+    <constituents.name>0</constituents.name>
+    <constituents.constituentULAN_URL>0</constituents.constituentULAN_URL>
+    <constituents.constituentWikidata_URL>0</constituents.constituentWikidata_URL>
+    <constituents.gender>0</constituents.gender>
+    <measurements.elementName>Other</measurements.elementName>
+    <measurements.elementDescription>Object diameter</measurements.elementDescription>
+    <measurements.elementMeasurements.Diameter>1.7463</measurements.elementMeasurements.Diameter>
+    <tags.term>0</tags.term>
+    <tags.AAT_URL>0</tags.AAT_URL>
+    <tags.Wikidata_URL>0</tags.Wikidata_URL>
+  </row>
+  <row>
+    <index>12</index>
+    <objectID>10</objectID>
+    <isHighlight>False</isHighlight>
+    <accessionNumber>1979.486.3</accessionNumber>
+    <accessionYear>1979</accessionYear>
+    <isPublicDomain>False</isPublicDomain>
+    <primaryImage/>
+    <primaryImageSmall/>
+    <additionalImages>[]</additionalImages>
+    <department>The American Wing</department>
+    <objectName>Coin</objectName>
+    <title>Two-and-a-half-dollar Indian Head Coin</title>
+    <culture/>
+    <period/>
+    <dynasty/>
+    <reign/>
+    <portfolio/>
+    <artistRole>Maker</artistRole>
+    <artistPrefix/>
+    <artistDisplayName>Bela Lyon Pratt</artistDisplayName>
+    <artistDisplayBio>1867–1917</artistDisplayBio>
+    <artistSuffix/>
+    <artistAlphaSort>Pratt, Bela Lyon</artistAlphaSort>
+    <artistNationality/>
+    <artistBeginDate>1867</artistBeginDate>
+    <artistEndDate>1917</artistEndDate>
+    <artistGender/>
+    <artistWikidata_URL>https://www.wikidata.org/wiki/Q4881787</artistWikidata_URL>
+    <artistULAN_URL>http://vocab.getty.edu/page/ulan/500095555</artistULAN_URL>
+    <objectDate>1912</objectDate>
+    <objectBeginDate>1912</objectBeginDate>
+    <objectEndDate>1912</objectEndDate>
+    <medium>Gold</medium>
+    <dimensions>Dimensions unavailable</dimensions>
+    <creditLine>Gift of Heinz L. Stoppelmann, 1979</creditLine>
+    <geographyType/>
+    <city/>
+    <state/>
+    <county/>
+    <country/>
+    <region/>
+    <subregion/>
+    <locale/>
+    <locus/>
+    <excavation/>
+    <river/>
+    <classification/>
+    <rightsAndReproduction/>
+    <linkResource/>
+    <metadataDate>2021-04-06T04:41:04.967Z</metadataDate>
+    <repository>Metropolitan Museum of Art, New York, NY</repository>
+    <objectURL>https://www.metmuseum.org/art/collection/search/10</objectURL>
+    <objectWikidata_URL/>
+    <isTimelineWork>False</isTimelineWork>
+    <GalleryNumber/>
+    <constituents.constituentID>1080.0</constituents.constituentID>
+    <constituents.role>Maker</constituents.role>
+    <constituents.name>Bela Lyon Pratt</constituents.name>
+    <constituents.constituentULAN_URL>http://vocab.getty.edu/page/ulan/500095555</constituents.constituentULAN_URL>
+    <constituents.constituentWikidata_URL>https://www.wikidata.org/wiki/Q4881787</constituents.constituentWikidata_URL>
+    <constituents.gender/>
+    <measurements.elementName>Other</measurements.elementName>
+    <measurements.elementDescription>Object diameter</measurements.elementDescription>
+    <measurements.elementMeasurements.Diameter>1.7</measurements.elementMeasurements.Diameter>
+    <tags.term>0</tags.term>
+    <tags.AAT_URL>0</tags.AAT_URL>
+    <tags.Wikidata_URL>0</tags.Wikidata_URL>
+  </row>
+</data>
